@@ -9,11 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.ConsoleApp", "..\ConsoleA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Ricardo.WebApi", "..\Ricardo.WebApi\3.Ricardo.WebApi.csproj", "{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ricardo.Tools", "Ricardo.Tools", "{32CFAD3B-D3E6-4CB7-9F60-55C80B9CFFA5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools-工具", "Tools-工具", "{32CFAD3B-D3E6-4CB7-9F60-55C80B9CFFA5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLog", "..\Tools\Ricardo.NLog\NLog.csproj", "{E2F8CCF8-23A4-4364-A9C0-2C52C0A9B895}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonHandler", "..\Tools\JsonHandler\JsonHandler.csproj", "{8AD4ECD4-A05F-42A6-8256-AC4E47A7FAC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entity-实体", "Entity-实体", "{9E7527CF-C8B2-4C06-B22D-BA567546A7B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ORM", "ORM", "{9D018F42-62D7-4729-80CA-848519A71AC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
