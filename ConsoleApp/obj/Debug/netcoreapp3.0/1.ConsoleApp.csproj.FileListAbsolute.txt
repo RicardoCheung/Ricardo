@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\1.ConsoleApp.exe
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\1.ConsoleApp.deps.json
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\1.ConsoleApp.runtimeconfig.json
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\1.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\1.ConsoleApp.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\1.ConsoleApp.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.pdb

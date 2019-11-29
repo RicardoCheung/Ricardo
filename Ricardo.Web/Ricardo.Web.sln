@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ricardo.Web", "Ricardo.Web.csproj", "{61EC6385-1B20-4C3A-BB12-3F66305202C9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.ConsoleApp", "..\ConsoleApp\1.ConsoleApp.csproj", "{1C2F6987-6169-4137-A407-BAB531B739F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Ricardo.WebApi", "..\Ricardo.WebApi\3.Ricardo.WebApi.csproj", "{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{61EC6385-1B20-4C3A-BB12-3F66305202C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61EC6385-1B20-4C3A-BB12-3F66305202C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61EC6385-1B20-4C3A-BB12-3F66305202C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2F6987-6169-4137-A407-BAB531B739F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2F6987-6169-4137-A407-BAB531B739F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2F6987-6169-4137-A407-BAB531B739F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2F6987-6169-4137-A407-BAB531B739F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

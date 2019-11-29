@@ -9,7 +9,6 @@ C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\bin\Debug\netcoreapp3.0\Ricardo.
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\bin\Debug\netcoreapp3.0\Ricardo.Web.pdb
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\bin\Debug\netcoreapp3.0\Ricardo.Web.Views.dll
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\bin\Debug\netcoreapp3.0\Ricardo.Web.Views.pdb
-C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\Ricardo.Web.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\staticwebassets\Ricardo.Web.StaticWebAssets.Manifest.cache
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\staticwebassets\Ricardo.Web.StaticWebAssets.xml
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\Ricardo.Web.MvcApplicationPartsAssemblyInfo.cache

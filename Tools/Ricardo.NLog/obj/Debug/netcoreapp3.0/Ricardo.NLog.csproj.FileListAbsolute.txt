@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\bin\Debug\netcoreapp3.0\Ricardo.NLog.deps.json
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\bin\Debug\netcoreapp3.0\Ricardo.NLog.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\bin\Debug\netcoreapp3.0\Ricardo.NLog.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\Ricardo.NLog.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\Ricardo.NLog.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\Ricardo.NLog.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\Ricardo.NLog.pdb
