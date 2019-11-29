@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ricardo.Web", "Ricardo.Web.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.ConsoleApp", "..\ConsoleApp\1.ConsoleApp.csproj", "{1C2F6987-6169-4137-A407-BAB531B739F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Ricardo.WebApi", "..\Ricardo.WebApi\3.Ricardo.WebApi.csproj", "{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ricardo.WebApi", "..\Ricardo.WebApi\Ricardo.WebApi.csproj", "{6F01A03E-1EC4-4B64-87B2-18F6EB0BBBCE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools-工具", "Tools-工具", "{32CFAD3B-D3E6-4CB7-9F60-55C80B9CFFA5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{32CFAD3B-D3E6-4CB7-9F60-55C80B9CFFA5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NLog", "..\Tools\Ricardo.NLog\NLog.csproj", "{E2F8CCF8-23A4-4364-A9C0-2C52C0A9B895}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ORM", "ORM", "{9D018F42-62D7-4729-80CA-848519A71AC3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql-EFCore", "..\ORM\MySql-EFCore\MySql-EFCore.csproj", "{F9831B97-B41C-4A68-9B7C-6AF229DE300D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "..\Repository\Repository.csproj", "{8D483154-2C22-4868-87E3-6C1702A1D441}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F9831B97-B41C-4A68-9B7C-6AF229DE300D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9831B97-B41C-4A68-9B7C-6AF229DE300D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9831B97-B41C-4A68-9B7C-6AF229DE300D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D483154-2C22-4868-87E3-6C1702A1D441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D483154-2C22-4868-87E3-6C1702A1D441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D483154-2C22-4868-87E3-6C1702A1D441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D483154-2C22-4868-87E3-6C1702A1D441}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

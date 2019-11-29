@@ -8,3 +8,11 @@ C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.Console
 C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.AssemblyInfo.cs
 C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.dll
 C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\JsonHandler.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\MySql-EFCore.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\NLog.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\MySql-EFCore.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\JsonHandler.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\bin\Debug\netcoreapp3.0\NLog.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\OPEN\Ricardo\ConsoleApp\obj\Debug\netcoreapp3.0\1.ConsoleApp.csproj.CopyComplete

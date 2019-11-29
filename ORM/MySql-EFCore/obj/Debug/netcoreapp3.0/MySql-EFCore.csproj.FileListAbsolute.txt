@@ -3,6 +3,5 @@ C:\Users\Admin\Desktop\OPEN\Ricardo\ORM\MySql-EFCore\obj\Debug\netcoreapp3.0\MyS
 C:\Users\Admin\Desktop\OPEN\Ricardo\ORM\MySql-EFCore\bin\Debug\netcoreapp3.0\MySql-EFCore.deps.json
 C:\Users\Admin\Desktop\OPEN\Ricardo\ORM\MySql-EFCore\bin\Debug\netcoreapp3.0\MySql-EFCore.dll
 C:\Users\Admin\Desktop\OPEN\Ricardo\ORM\MySql-EFCore\bin\Debug\netcoreapp3.0\MySql-EFCore.pdb
-C:\Users\Admin\Desktop\OPEN\Ricardo\ORM\MySql-EFCore\obj\Debug\netcoreapp3.0\MySql-EFCore.csprojAssemblyReference.cache
 C:\Users\Admin\Desktop\OPEN\Ricardo\ORM\MySql-EFCore\obj\Debug\netcoreapp3.0\MySql-EFCore.dll
 C:\Users\Admin\Desktop\OPEN\Ricardo\ORM\MySql-EFCore\obj\Debug\netcoreapp3.0\MySql-EFCore.pdb
