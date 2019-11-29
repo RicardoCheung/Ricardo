@@ -7,3 +7,4 @@
 /Ricardo.Web/.vs/Ricardo.Web/v16/Server/sqlite3/storage.ide
 /Ricardo.Web/.vs/Ricardo.Web/v16/Server/sqlite3/storage.ide-shm
 /Ricardo.Web/.vs/Ricardo.Web/v16/Server/sqlite3/storage.ide-wal
+*.pdb

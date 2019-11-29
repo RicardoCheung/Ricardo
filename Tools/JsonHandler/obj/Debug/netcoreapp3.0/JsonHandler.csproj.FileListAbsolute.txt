@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\bin\Debug\netcoreapp3.0\JsonHandler.deps.json
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\bin\Debug\netcoreapp3.0\JsonHandler.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\bin\Debug\netcoreapp3.0\JsonHandler.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.pdb
