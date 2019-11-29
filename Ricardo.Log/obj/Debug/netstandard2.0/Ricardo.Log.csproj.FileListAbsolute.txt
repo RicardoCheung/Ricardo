@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\bin\Debug\netstandard2.0\Ricardo.Log.deps.json
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\bin\Debug\netstandard2.0\Ricardo.Log.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\bin\Debug\netstandard2.0\Ricardo.Log.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\obj\Debug\netstandard2.0\Ricardo.Log.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\obj\Debug\netstandard2.0\Ricardo.Log.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\obj\Debug\netstandard2.0\Ricardo.Log.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\obj\Debug\netstandard2.0\Ricardo.Log.dll
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Log\obj\Debug\netstandard2.0\Ricardo.Log.pdb
