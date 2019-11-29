@@ -5,3 +5,4 @@ C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\Js
 C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\bin\Debug\netcoreapp3.0\JsonHandler.pdb
 C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.dll
 C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.pdb
+C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\JsonHandler\obj\Debug\netcoreapp3.0\JsonHandler.csprojAssemblyReference.cache

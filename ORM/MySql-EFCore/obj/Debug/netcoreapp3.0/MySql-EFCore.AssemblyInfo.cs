@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Dapper")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MySql-EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Dapper")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Dapper")]
+[assembly: System.Reflection.AssemblyProductAttribute("MySql-EFCore")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MySql-EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

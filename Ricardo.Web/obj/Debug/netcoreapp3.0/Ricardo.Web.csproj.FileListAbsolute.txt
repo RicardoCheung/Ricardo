@@ -32,3 +32,4 @@ C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\Ricardo.
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\Ricardo.Web.dll
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\Ricardo.Web.pdb
 C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\Ricardo.Web.csproj.CopyComplete
+C:\Users\Admin\Desktop\OPEN\Ricardo\Ricardo.Web\obj\Debug\netcoreapp3.0\Ricardo.Web.csprojAssemblyReference.cache

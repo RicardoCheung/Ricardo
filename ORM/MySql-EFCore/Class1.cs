@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dapper
+namespace MySql_EFCore
 {
     public class Class1
     {

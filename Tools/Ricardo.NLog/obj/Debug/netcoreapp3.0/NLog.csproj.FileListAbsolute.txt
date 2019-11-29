@@ -5,4 +5,3 @@ C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\N
 C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\NLog.AssemblyInfo.cs
 C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\NLog.dll
 C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\NLog.pdb
-C:\Users\Admin\Desktop\OPEN\Ricardo\Tools\Ricardo.NLog\obj\Debug\netcoreapp3.0\NLog.csprojAssemblyReference.cache
